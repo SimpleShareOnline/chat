@@ -1,3 +1,3 @@
 # chat
 
-Code for [chat.simpleshare.online](chat.simpleshare.online)
+Code for chat.simpleshare.online]([http://chat.simpleshare.online/)
